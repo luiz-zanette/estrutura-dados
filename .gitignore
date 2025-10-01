@@ -1,2 +1,13 @@
-.vscode
+*.env
+*.key
+*.pem
+*.crt
+*.p12
+*.db
+*.sqlite
+*.log
+config.json
+secrets.json
+.vscode/
 .DS_Store
+
